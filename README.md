@@ -240,15 +240,4 @@ Complete when you can:
 - **Local Development:** $0 (everything runs locally)
 - **Optional Cloud APIs:** ~$2-5 for external LLM services (if chosen)
 
----
-
-<div align="center">
-  <h3>🎉 Ready to Start Your AI Engineering Journey?</h3>
-  <p><strong>Begin with the Week 1 setup notebook and build your first production RAG system!</strong></p>
-  
-  <p><em>For learners who want to master modern AI engineering</em></p>
-  <p><strong>Built with love by Jam With AI</strong></p>
-</div>
-
----
 
